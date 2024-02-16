@@ -1,1 +1,1 @@
-# chatgpt-clone-stramlit
+# chatgpt-clone-streamlit
